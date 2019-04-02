@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Raw Notes
+title: Raw
 ---
 
 # Immortals - Game Design Document
