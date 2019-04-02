@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Game Design Document
 ---
 
 # Immortals - Game Design Document
