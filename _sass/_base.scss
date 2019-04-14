@@ -1,12 +1,10 @@
 $content-width: 800px;
 $main: #191ccc;
-$font-style: 'Open Sans',
-sans-serif;
+$font-style: "Open Sans", sans-serif;
 $font-color: #262626;
 $link-color: #425469;
 $link-hover-color: $main;
-$heading-font: 'Muli',
-sans-serif;
+$heading-font: "Muli", sans-serif;
 $heading-font-color: #425469;
 $light: #e7edf4;
 $header: #111;
@@ -19,4 +17,24 @@ $nav-color: white;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+}
+
+code {
+    white-space: pre-wrap;
+}
+
+table {
+    width: 100%;
+}
+table tr:nth-child(2n) {
+    background: #c0c0c0;
+}
+
+td,
+th {
+    padding: 5px;
+}
+
+thead {
+    border-bottom: solid black;
 }
