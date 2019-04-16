@@ -11,7 +11,7 @@ title: Project Timeline
 
 | Area                   | Effort (1-5) | % Done | Expected Time Effort |
 | ---------------------- | ------------ | ------ | -------------------- |
-| **Tool Building**      | 4            | 60%    | 20h                  |
+| **Core Mechanics**     | 4            | 0%     | 20h                  |
 | **Player Controls**    | 2            | 0%     | 12h                  |
 | **Companion Controls** | 2            | 0%     | 24h                  |
 | **Enemy AI**           | 4            | 0%     | 30h                  |
