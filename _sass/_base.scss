@@ -38,3 +38,12 @@ th {
 thead {
     border-bottom: solid black;
 }
+
+ul {
+    list-style-position: inside;
+}
+
+ol,
+ul {
+    list-style: none;
+}

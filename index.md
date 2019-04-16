@@ -5,6 +5,9 @@ title: Game Design Document
 
 # Immortals - Game Design Document
 
+* TOC
+{:toc}
+
 ## Overall Vision for the Game, Characters, and Storyline
 
 The Player is on a simple mission, beat all the Royalty in the world around his village. The village has fallen on troubled times and the Player has the chance to help their village by defeating the Royalty and getting the renown to help their village.
