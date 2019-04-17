@@ -39,11 +39,8 @@ thead {
     border-bottom: solid black;
 }
 
-ul {
-    list-style-position: inside;
-}
-
 ol,
 ul {
+    padding-left: 1em;
     list-style: none;
 }
