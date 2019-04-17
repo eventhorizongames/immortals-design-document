@@ -5,6 +5,7 @@ title: Game Design Document
 
 # Immortals - Game Design Document
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
@@ -40,31 +41,31 @@ Action, Role-playing, strategy.
 
 ## Core Game-play
 
-### Core game mechanics: 
+### Core game mechanics:
 
 Every player has their own Village, this make it unique to them. Going back to the village they can see the Trophies from their Adventures.
 
-### Goals: 
+### Goals:
 
 Bring renown to their home village.
 Defeating all Royalty of the World.
 Collecting all Immortal Types.
 Collecting all Charm types.
 
-### Components: 
+### Components:
 
 The player will combat other Immortals in the work with their Immortal Companions. They will collect more Immortals, use Charms to Mold their companion. Charms drop from defeated companions. Charms come in a variety of different types; attack, defense, passive are the main types. But come in in the different affects they have.
 
-Immortal are blank slate companions, adding charms are used to enhance them. 
+Immortal are blank slate companions, adding charms are used to enhance them.
 
 A Charm can be a new skill for the Immortal, a boost to a certain type of elemental type, expand the area of effect of skills. These Charms will also change the look of the Immortal.
 
-### Controls: 
+### Controls:
 
 WASD Player movement.
 Mouse/Touch companion movement.
 
-### User experience: 
+### User experience:
 
 Overhead view of the player and his immortals in the world.
 

@@ -5,6 +5,7 @@ title: Raw Notes
 
 # Immortals - Game Design Document (RAW NOTES)
 
+<!-- prettier-ignore -->
 * TOC
 {:toc}
 
