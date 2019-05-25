@@ -10,3 +10,4 @@ A mobile/browser game that a player earns rewards by moving around the real worl
 # Images
 
 ![Pocket Immortal](/image/example-pocket-immortal-001.png)
+![Pocket Immortal Video](/image/pocket-immortal-video.gif)
