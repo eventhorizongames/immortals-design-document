@@ -7,7 +7,7 @@ title: Demo
 
 The demo will be a single area map.
 The map will contain a few Immortals and NPC's.
-The point of the demo is to accumulate enough Immortal Eggs within the time-limit
+The point of the demo is to accumulate enough Immortal Eggs within the time-limit.
 You will start off by giving your Immortal Charms.
 On round start, you hunt Immortals.
 On finding an Immortal you will weaken it to Egg form.
@@ -43,3 +43,7 @@ Charm List (3 types; Skill, Enhancement, Effect)
     -   Increase Action Skill effect duration
 -   Damage over Time Effect:
     -   Gives the Action Skill a Damage over Time effect
+
+# Schedule
+
+Create Level -

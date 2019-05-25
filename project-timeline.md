@@ -7,6 +7,11 @@ title: Project Timeline
 
 (6 hour days) + (2 hours for testing)
 
+<!-- -   <a href="/calendar.html">Calendar</a> -->
+
+-   <a href="/world-design.html">World Design</a>
+-   <a href="/milestone-1.html">Milestone 1 Details</a>
+
 ## Milestone 1 (Alpha/Tech Demo)
 
 | Area                   | Effort (1-5) | % Done | Expected Time Effort |

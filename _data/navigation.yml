@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: Story
+  link: /story.html
+- name: Demos
+  link: /demos.html
+- name: Project Timeline
+  link: /project-timeline.html
+- name: Term Definitions
+  link: /terms.html
