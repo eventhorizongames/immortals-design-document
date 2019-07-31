@@ -9,7 +9,7 @@ title: Story
 * TOC
 {:toc}
 
-## 0. Overall Vision
+## Overall Vision
 
 The Player is on a simple mission, beat all the Royalty in the world around his village. The village has fallen on troubled times and the Player has the chance to help their village by defeating the Royalty and getting the renown to help their village.
 
@@ -27,21 +27,7 @@ A Charm can be given to an Immortal, these give the Immortal a passive stat or a
 
 An Immortal's Mold affects it AI, this means they might attack more if they are attack focus or say next to their Player if focused on Defense. This Molding will also carry over to their egg state and can be further Melded in the future.
 
-## 1. Starting Village
 
-Your village is your main hub, you can come back here any time you want. It is the center of your world and literally the center of your map. Your village starts out small and poor, and as you defeat Royals your village will go through different stage of renown.
+## Table of Contents
 
-You start in your village, every player has a village. Every village will be built from a seed for the terrain, and state data from the owner.
-
-You start with an egg, found in a dungeon near your village. Also found was a few Charm's that can be used with your companion when they hatch.
-
-## 1.1. First Dungeon (flashback/tutorial)
-
-Your player is wake's in the depths of the dungeon, after falling from a hole that appeared in the ground.
-They awake next to an egg, and charms. They decide to take and care for the egg, but they need to get out of the dungeon first. This requires the player to learn movement and "sneak" out of the dungeon. Getting caught by the roaming Immortals will re-spawn the player where they first awoke.
-
-After making it out and back to their village the player will learn about the caring for of their Immortal eggs from an elder in the village.
-
-```dialog
-(Player): *looking at egg* Ugh, glad we are finally out of their.
-```
+<a href="/story/000_tutorial.html">Starting Tutorial Area</a>
