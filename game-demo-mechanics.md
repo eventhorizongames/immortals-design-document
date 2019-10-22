@@ -5,7 +5,7 @@ title: Game Demo Mechanics
 
 # Game Demo Mechanics
 
-Immortal Collection
+## Immortal Collection
 
 - Capture Immortal
   - Like a game of Tag.
@@ -19,14 +19,14 @@ Immortal Collection
 - Round will last 10 minutes
   - After time span of 10 minutes show Scoreboard flow.
 
-# Game Flow
+## Game Flow
 
 - Join Game
 - Get details about Game from Starting Area NPC
 - Move around with WASD Keys
 - Capture with "Space" or "F" keys
 
-# GUI
+## GUI
 
 Display count of caught Immortals for current Player.
 Scoreboard to display players on map.
